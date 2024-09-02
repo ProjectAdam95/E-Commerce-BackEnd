@@ -155,7 +155,7 @@ Software used
 ##  :camera: Gallery
 Below is a preview photo of the website.
 
-- Click here to view preview video/gif!: ENTER WEBSITE HERE
+- Click here to view preview video/gif!: https://jmp.sh/et35OM98
 
 You may also download the image/gif for your own reference :D
 
