@@ -1,5 +1,6 @@
 const { ProductTag } = require('../models');
 
+// Seed data for product-tag associations
 const productTagData = [
   {
     product_id: 1,
@@ -51,6 +52,7 @@ const productTagData = [
   },
 ];
 
+// Bulk insert the seed data
 const seedProductTags = () => ProductTag.bulkCreate(productTagData);
 
 module.exports = seedProductTags;

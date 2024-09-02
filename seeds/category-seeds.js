@@ -1,5 +1,6 @@
-const { Category } = require('../models');
+const { Category } = require('../models'); // Import the Category model
 
+// Array of category data to seed the database
 const categoryData = [
   {
     category_name: 'Shirts',
@@ -18,6 +19,8 @@ const categoryData = [
   },
 ];
 
+// Function to bulk insert the category data into the database
 const seedCategories = () => Category.bulkCreate(categoryData);
 
-module.exports = seedCategories;
+module.exports = seedCategories; // Export the seed function for use in the seeding script
+

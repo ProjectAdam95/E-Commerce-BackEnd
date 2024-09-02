@@ -32,7 +32,7 @@ Features include:
 
 Additional Features:
 
-- Preview Photos: Includes a preview image/gif that demonstrate the application's output and functionality. Assisting with the user navigating through.
+- Preview Photos: Includes a preview image/gif that demonstrate the application's output and functionality. Assisting with the user navigating through the application.
 - Directory Structure: Easy-to-navigate file structure and readm-me.md.
 
 ###  :file_folder: File Structure
